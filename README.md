@@ -33,7 +33,8 @@
 * 메인페이지 사용자 검색 입력 창
 <img src="https://user-images.githubusercontent.com/61791986/101281000-eefaa280-380f-11eb-8ff8-ccc1ba8c00b3.png" width="400" height="300">
 기능 설명 : AJAX의 AUTOCOMPLETE을 이용하여, 사용자의 입력값이 포함되어 있는 데이터를 json형식으로 RESPONSE됩니다. 응답을 거쳐 목록창에 보여지게 됩니다. 
-<br>
+
+
 * 게시물 신고 & 블랙리스트
 <img src="https://user-images.githubusercontent.com/61791986/101281093-86f88c00-3810-11eb-9042-c117d43bc0f9.png" width="400" height="300">
 <img src="https://user-images.githubusercontent.com/61791986/101281130-c3c48300-3810-11eb-9236-c5925535d18c.png" width="400" height="300">

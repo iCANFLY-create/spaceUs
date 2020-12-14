@@ -52,4 +52,4 @@
 <img src="https://user-images.githubusercontent.com/61791986/102039698-f45a7d00-3e0d-11eb-9174-45da3c660326.PNG" width="400" height="300">
 
 #### 사이트 소개 UI         
-<img src="https://user-images.githubusercontent.com/61791986/102039762-223fc180-3e0e-11eb-8659-4765ef4fecef.PNG" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/61791986/102039762-223fc180-3e0e-11eb-8659-4765ef4fecef.PNG" width="400" height="500">
